@@ -20,3 +20,5 @@
 17) Hago push de la rama master a github para ello: git push origin master
 18) Hago push de la rama rama2 a github para ello: git push origin rama2
 
+### Network
+![alt text](https://github.com/ArieHassan/Proyecto_github1/blob/master/Network.png)
