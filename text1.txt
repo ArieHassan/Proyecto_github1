@@ -1,1 +1,4 @@
+Uno todo: 
+
 También escribo cosas acá para que de conflicto el merge
+Se me olvido escribir algo en el documento inicial cuando lo cree, pero no pasa nada. Modifico el documento de la rama principal también y ya. 
