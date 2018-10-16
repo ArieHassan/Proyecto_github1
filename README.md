@@ -1,4 +1,4 @@
-# **Proyecto_github1** :smiley:
+# ** <center> Proyecto_github1** </center> :smiley:
 
 ## Pasos realizados: 
 1) Creamos la carpeta del proyecto con el comando : mkdir "proy_github2
